@@ -2,17 +2,27 @@
 
 <h3 align="center">Full-Stack Developer · Founder of EduSkul · Nairobi 🇰🇪</h3>
 
-<p align="center">
-  I build and personally operate production software, from database schema
-  to APIs, UI, payments and Linux deployment.
-</p>
+<table>
+<tr>
+<td width="70%" valign="middle">
 
-<p align="center">
-  <a href="https://ochiengjeff1000-commits.github.io">🌐 Portfolio</a> ·
-  <a href="https://eduskul.techsquarehub.co.ke">🏫 EduSkul</a> ·
-  <a href="https://www.linkedin.com/in/jeff-ochieng-ab9533397">💼 LinkedIn</a> ·
-  <a href="mailto:jeffochieng025@gmail.com">✉️ Email</a>
-</p>
+I build and personally operate production software, from database schema to APIs, user interfaces, payments, and Linux deployment.
+
+🚀 Building practical software for education and business.
+
+🌐 [Portfolio](https://ochiengjeff1000-commits.github.io)<br>
+🏫 [EduSkul](https://eduskul.techsquarehub.co.ke)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/jeff-ochieng-ab9533397)<br>
+✉️ [Email me](mailto:jeffochieng025@gmail.com)
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="./profile.png" alt="Jeff Ochieng" width="220" />
+
+</td>
+</tr>
+</table>
 
 ---
 
