@@ -20,6 +20,8 @@
 
 - 🏫 Founder and sole developer of **EduSkul**, a multi-tenant school management SaaS live with real schools in Kenya
 - 🧩 Built **CBA Score Validator**, a licensed Chrome extension with its own payment and licensing backend
+- 📋 Built an allocation tool that automates exam invigilator and supervisor deployment for KPSEA, KJSEA and KCSE
+- 🔭 Currently working on **Netora**, an AI-powered network monitoring and cybersecurity platform
 - 🎓 Studying Communication & Computer Networks at TUK, which adds networking and security depth to how I build
 - 🔧 Comfortable diagnosing production issues under real infrastructure constraints
 - 🌱 Currently learning cybersecurity fundamentals and ethical hacking basics
@@ -73,6 +75,19 @@ Turns a school's Excel or PDF marksheet into a clean dataset, then auto-fills ev
 - Custom PHP/MySQL licensing backend with school registration, M-Pesa license purchase, server-side verification and device fingerprinting
 
 `JavaScript` `Manifest V3` `PHP` `MySQL`
+
+### 📋 Exam Invigilation & Supervision Allocator
+
+A tool that automates the allocation of teachers as invigilators and supervisors for **KPSEA, KJSEA and KCSE** across hundreds of schools. It replaces a slow, error-prone manual process.
+
+- Rule-based allocation with configurable candidate-to-staff ratios and a rules tab to override the defaults
+- Honors teachers' preferred schools, then tops up under-staffed schools so no centre is left short
+- Spreads supervisors fairly across public schools, with separate KPSEA/KJSEA and KCSE rules
+- Manual controls to move, replace or remove teachers, add schools, and shuffle allocations
+- Flags teachers who missed automatic placement and schools with shortfalls, so they're easy to fix
+- Exports printable allocation sheets for schools and for the exam centres
+
+`JavaScript` `HTML` `Python`
 
 ### 💡 [TechSquareHub](https://techsquarehub.co.ke/)
 
