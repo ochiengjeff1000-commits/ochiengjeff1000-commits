@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://techsquarehub.co.ke/">🌐 TechSquareHub</a> ·
+  <a href="https://ochiengjeff1000-commits.github.io">🌐 Portfolio</a> ·
   <a href="https://eduskul.techsquarehub.co.ke">🏫 EduSkul</a> ·
   <a href="https://www.linkedin.com/in/jeff-ochieng-ab9533397">💼 LinkedIn</a> ·
   <a href="mailto:jeffochieng025@gmail.com">✉️ Email</a>
@@ -99,7 +99,7 @@ An AI-powered network monitoring and cybersecurity platform, combining my networ
 
 I'm open to full-stack, backend and EdTech-focused roles and freelance builds. If you need something shipped and maintained, not just prototyped, get in touch.
 
-- 🌐 Website: [techsquarehub.co.ke](https://techsquarehub.co.ke/)
+- 🌐 Portfolio: [ochiengjeff1000-commits.github.io](https://ochiengjeff1000-commits.github.io)
 - 💼 LinkedIn: [jeff-ochieng](https://www.linkedin.com/in/jeff-ochieng-ab9533397)
 - ✉️ Email: [jeffochieng025@gmail.com](mailto:jeffochieng025@gmail.com)
 
